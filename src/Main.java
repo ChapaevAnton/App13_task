@@ -15,7 +15,7 @@ public class Main {
         //  3. Синхронизируйте потоки thread1, thread2, thread3...
 
 
-        // TODO: Для решения данный код изменять не надо!!! Так же для решения не используйте Thread.join()!!!
+        // TODO: Для решения код в методе main() изменять не надо!!! Так же для решения не используйте Thread.join()!!!
         CounterStr counterStr =  new CounterStr("One,Two,Three,Four,Five,Six,Seven,Eight,Nine,Ten ");
         CounterStr counterStr1 =  new CounterStr("One,Two,Three,Four,Five,Six,Seven,Eight,Nine,Ten ");
         CounterStr counterStr2 =  new CounterStr("One,Two,Three,Four,Five,Six,Seven,Eight,Nine,Ten ");
